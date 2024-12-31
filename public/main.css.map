@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/richardrevia/Documents/08_websites/paraganglia",
+	"sourceRoot": "/Users/richardrevia/Desktop/paraganglia",
 	"sources": [
 		"node_modules/@thulite/core/assets/scss/app.scss",
 		"node_modules/bootstrap/scss/_functions.scss",

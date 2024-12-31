@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gyn on Paraganglia</title>
-    <link>http://localhost:1313/pathology/ap/surg_path/gyn/</link>
+    <link>http://localhost:1313/paraganglia/pathology/ap/surg_path/gyn/</link>
     <description>Recent content in Gyn on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sun, 29 Dec 2024 16:53:39 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/pathology/ap/surg_path/gyn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/paraganglia/pathology/ap/surg_path/gyn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Endocrine</title>
-      <link>http://localhost:1313/pathology/ap/surg_path/gyn/gyn/</link>
+      <link>http://localhost:1313/paraganglia/pathology/ap/surg_path/gyn/gyn/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>http://localhost:1313/pathology/ap/surg_path/gyn/gyn/</guid>
+      <guid>http://localhost:1313/paraganglia/pathology/ap/surg_path/gyn/gyn/</guid>
       <description>&lt;h2 id=&#34;female-reproductive-tract&#34;&gt;Female reproductive tract&lt;/h2&gt;&#xA;&lt;h2 id=&#34;ovary&#34;&gt;Ovary&lt;/h2&gt;&#xA;&lt;h2 id=&#34;placenta&#34;&gt;Placenta&lt;/h2&gt;</description>
     </item>
   </channel>

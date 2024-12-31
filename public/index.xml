@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Paraganglia on Paraganglia</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/paraganglia/</link>
     <description>Recent content in Welcome to Paraganglia on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sun, 29 Dec 2024 16:53:39 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/paraganglia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chemistry</title>
-      <link>http://localhost:1313/pathology/cp/chem/chem/</link>
+      <link>http://localhost:1313/paraganglia/pathology/cp/chem/chem/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>http://localhost:1313/pathology/cp/chem/chem/</guid>
+      <guid>http://localhost:1313/paraganglia/pathology/cp/chem/chem/</guid>
       <description></description>
     </item>
     <item>
       <title>Blood Bank</title>
-      <link>http://localhost:1313/pathology/cp/blood_bank/blood_bank/</link>
+      <link>http://localhost:1313/paraganglia/pathology/cp/blood_bank/blood_bank/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>http://localhost:1313/pathology/cp/blood_bank/blood_bank/</guid>
+      <guid>http://localhost:1313/paraganglia/pathology/cp/blood_bank/blood_bank/</guid>
       <description></description>
     </item>
     <item>
       <title>Neuro</title>
-      <link>http://localhost:1313/pathology/ap/surg_path/neuro/neuro/</link>
+      <link>http://localhost:1313/paraganglia/pathology/ap/surg_path/neuro/neuro/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>http://localhost:1313/pathology/ap/surg_path/neuro/neuro/</guid>
+      <guid>http://localhost:1313/paraganglia/pathology/ap/surg_path/neuro/neuro/</guid>
       <description>&lt;h2 id=&#34;normal-anatomy&#34;&gt;Normal anatomy&lt;/h2&gt;&#xA;&lt;h2 id=&#34;normal-histology&#34;&gt;Normal histology&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Microbiology</title>
-      <link>http://localhost:1313/pathology/cp/micro/micro/</link>
+      <link>http://localhost:1313/paraganglia/pathology/cp/micro/micro/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>http://localhost:1313/pathology/cp/micro/micro/</guid>
+      <guid>http://localhost:1313/paraganglia/pathology/cp/micro/micro/</guid>
       <description></description>
     </item>
     <item>
       <title>Breast</title>
-      <link>http://localhost:1313/pathology/ap/surg_path/breast/breast/</link>
+      <link>http://localhost:1313/paraganglia/pathology/ap/surg_path/breast/breast/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>http://localhost:1313/pathology/ap/surg_path/breast/breast/</guid>
+      <guid>http://localhost:1313/paraganglia/pathology/ap/surg_path/breast/breast/</guid>
       <description>&lt;h2 id=&#34;normal-anatomy&#34;&gt;Normal anatomy&lt;/h2&gt;&#xA;&lt;h2 id=&#34;normal-histology&#34;&gt;Normal histology&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Hematopathology</title>
-      <link>http://localhost:1313/pathology/cp/heme/heme/</link>
+      <link>http://localhost:1313/paraganglia/pathology/cp/heme/heme/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>http://localhost:1313/pathology/cp/heme/heme/</guid>
+      <guid>http://localhost:1313/paraganglia/pathology/cp/heme/heme/</guid>
       <description></description>
     </item>
     <item>
       <title>Coagulation</title>
-      <link>http://localhost:1313/pathology/cp/coag/coag/</link>
+      <link>http://localhost:1313/paraganglia/pathology/cp/coag/coag/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>http://localhost:1313/pathology/cp/coag/coag/</guid>
+      <guid>http://localhost:1313/paraganglia/pathology/cp/coag/coag/</guid>
       <description></description>
     </item>
     <item>
       <title>Immunology</title>
-      <link>http://localhost:1313/pathology/cp/immuno/immuno/</link>
+      <link>http://localhost:1313/paraganglia/pathology/cp/immuno/immuno/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>http://localhost:1313/pathology/cp/immuno/immuno/</guid>
+      <guid>http://localhost:1313/paraganglia/pathology/cp/immuno/immuno/</guid>
       <description></description>
     </item>
     <item>
       <title>Molecular</title>
-      <link>http://localhost:1313/pathology/cp/molecular/molecular/</link>
+      <link>http://localhost:1313/paraganglia/pathology/cp/molecular/molecular/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>http://localhost:1313/pathology/cp/molecular/molecular/</guid>
+      <guid>http://localhost:1313/paraganglia/pathology/cp/molecular/molecular/</guid>
       <description></description>
     </item>
     <item>
       <title>Medical Directorship</title>
-      <link>http://localhost:1313/pathology/cp/medical_directorship/medical_directorship/</link>
+      <link>http://localhost:1313/paraganglia/pathology/cp/medical_directorship/medical_directorship/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>http://localhost:1313/pathology/cp/medical_directorship/medical_directorship/</guid>
+      <guid>http://localhost:1313/paraganglia/pathology/cp/medical_directorship/medical_directorship/</guid>
       <description></description>
     </item>
   </channel>

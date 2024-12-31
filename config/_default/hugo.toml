@@ -1,6 +1,5 @@
 title = "Paraganglia"
-# baseurl = "http://localhost/"
-baseurl = "https://rarevia.github.io/paraganglia/"
+baseurl = "http://localhost/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

@@ -2,130 +2,130 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://localhost:1313/step3/internal/infectious/</loc>
+      <loc>http://localhost:1313/paraganglia/step3/internal/infectious/</loc>
       <lastmod>2024-12-28T17:15:17-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/step3/internal/immunology/</loc>
+      <loc>http://localhost:1313/paraganglia/step3/internal/immunology/</loc>
       <lastmod>2024-12-28T17:15:17-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/step3/internal/cardiology/</loc>
+      <loc>http://localhost:1313/paraganglia/step3/internal/cardiology/</loc>
       <lastmod>2024-12-28T17:15:17-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/step3/internal/endocrinology/</loc>
+      <loc>http://localhost:1313/paraganglia/step3/internal/endocrinology/</loc>
       <lastmod>2024-12-28T17:15:17-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/step3/internal/pulmonology/</loc>
+      <loc>http://localhost:1313/paraganglia/step3/internal/pulmonology/</loc>
       <lastmod>2024-12-28T17:15:17-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/step3/internal/rheumatology/</loc>
+      <loc>http://localhost:1313/paraganglia/step3/internal/rheumatology/</loc>
       <lastmod>2024-12-28T17:15:17-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/step3/internal/hematology/</loc>
+      <loc>http://localhost:1313/paraganglia/step3/internal/hematology/</loc>
       <lastmod>2024-12-28T17:15:17-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/step3/internal/gastroenterology/</loc>
+      <loc>http://localhost:1313/paraganglia/step3/internal/gastroenterology/</loc>
       <lastmod>2024-12-28T17:15:17-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/step3/internal/nephrology/</loc>
+      <loc>http://localhost:1313/paraganglia/step3/internal/nephrology/</loc>
       <lastmod>2024-12-28T17:15:17-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>http://localhost:1313/step3/internal/oncology/</loc>
+      <loc>http://localhost:1313/paraganglia/step3/internal/oncology/</loc>
       <lastmod>2024-12-28T17:15:17-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     <url>
-        <loc>http://localhost:1313/step3/internal/infectious/infectious/</loc>
+        <loc>http://localhost:1313/paraganglia/step3/internal/infectious/infectious/</loc>
         <lastmod>2024-12-28T17:42:58-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/step3/internal/immunology/immun/</loc>
+        <loc>http://localhost:1313/paraganglia/step3/internal/immunology/immun/</loc>
         <lastmod>2024-12-28T17:43:11-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/step3/internal/cardiology/cards/</loc>
+        <loc>http://localhost:1313/paraganglia/step3/internal/cardiology/cards/</loc>
         <lastmod>2024-12-28T17:43:25-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/step3/internal/endocrinology/endo/</loc>
+        <loc>http://localhost:1313/paraganglia/step3/internal/endocrinology/endo/</loc>
         <lastmod>2024-12-28T17:43:33-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/step3/internal/pulmonology/pulm/</loc>
+        <loc>http://localhost:1313/paraganglia/step3/internal/pulmonology/pulm/</loc>
         <lastmod>2024-12-28T17:43:42-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/step3/internal/rheumatology/rheum/</loc>
+        <loc>http://localhost:1313/paraganglia/step3/internal/rheumatology/rheum/</loc>
         <lastmod>2024-12-28T17:43:51-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/step3/internal/hematology/heme/</loc>
+        <loc>http://localhost:1313/paraganglia/step3/internal/hematology/heme/</loc>
         <lastmod>2024-12-28T17:43:58-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/step3/internal/gastroenterology/gi/</loc>
+        <loc>http://localhost:1313/paraganglia/step3/internal/gastroenterology/gi/</loc>
         <lastmod>2024-12-28T17:44:07-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/step3/internal/nephrology/nephro/</loc>
+        <loc>http://localhost:1313/paraganglia/step3/internal/nephrology/nephro/</loc>
         <lastmod>2024-12-28T17:44:18-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
       </url>
       <url>
-        <loc>http://localhost:1313/step3/internal/oncology/oncology/</loc>
+        <loc>http://localhost:1313/paraganglia/step3/internal/oncology/oncology/</loc>
         <lastmod>2024-12-28T17:44:26-07:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>

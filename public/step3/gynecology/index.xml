@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gynecology on Paraganglia</title>
-    <link>http://localhost:1313/step3/gynecology/</link>
+    <link>http://localhost:1313/paraganglia/step3/gynecology/</link>
     <description>Recent content in Gynecology on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sat, 28 Dec 2024 17:45:19 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/step3/gynecology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/paraganglia/step3/gynecology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gyn</title>
-      <link>http://localhost:1313/step3/gynecology/gyn/</link>
+      <link>http://localhost:1313/paraganglia/step3/gynecology/gyn/</link>
       <pubDate>Sat, 28 Dec 2024 17:45:19 -0700</pubDate>
-      <guid>http://localhost:1313/step3/gynecology/gyn/</guid>
+      <guid>http://localhost:1313/paraganglia/step3/gynecology/gyn/</guid>
       <description></description>
     </item>
   </channel>
