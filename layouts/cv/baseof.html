@@ -1,0 +1,39 @@
+{{ $data := or (index .Site.Data.cv.contnet .Site.Language.Lang).cv.content .Site.Data.cv.content }}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="assets/scss/cv/main.scss"> <!-- Ensure this path is correct -->
+    {{- partial "cv/head.html" . -}} <!-- Include additional head content if needed -->
+</head>
+<body>
+    <div class="content">
+        {{ if .Site.Params.swapColumns }}
+        <div class="content__left content__swapped__left">
+        {{ else }}
+        <div class="content__left">
+        {{ end }}
+            <h1 class="mainHeading">{{ $data.BasicInfo.FirstName }} <span>{{ $data.BasicInfo.LastName }}</span></h1>
+            {{ partial "cv/_profile.html" $data }}
+            {{ partial "cv/_experience.html" $data }}
+            {{ partial "cv/_education.html" $data }}
+            {{ partial "cv/_references.html" $data }}
+        </div>
+        {{ if .Site.Params.swapColumns }}
+        <div class="content__right content__swapped__right">
+        {{ else }}
+        <div class="content__right">
+        {{ end }}
+            {{ partial "cv/_avatar.html" $data }}
+            {{ partial "cv/_contacts.html" $data }}
+            {{ partial "cv/_skills.html" $data }}
+            {{ partial "cv/_languages.html" $data }}
+            {{ partial "cv/_diplomas.html" $data }}
+            {{ partial "cv/_interests.html" $data }}
+        </div>
+    </div>
+</body>
+</html>

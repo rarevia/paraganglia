@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Endocrinology on Paraganglia</title>
+    <link>http://localhost:1313/step3/internal/endocrinology/</link>
+    <description>Recent content in Endocrinology on Paraganglia</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2024 Richard Revia</copyright>
+    <lastBuildDate>Sat, 28 Dec 2024 17:43:33 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/step3/internal/endocrinology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endocrinology</title>
+      <link>http://localhost:1313/step3/internal/endocrinology/endo/</link>
+      <pubDate>Sat, 28 Dec 2024 17:43:33 -0700</pubDate>
+      <guid>http://localhost:1313/step3/internal/endocrinology/endo/</guid>
+      <description>&lt;h2 id=&#34;diabetes&#34;&gt;Diabetes&lt;/h2&gt;&#xA;&lt;h3 id=&#34;diangosis&#34;&gt;Diangosis&lt;/h3&gt;&#xA;&lt;p&gt;Diagnosis of &lt;em&gt;diabetes mellitus&lt;/em&gt; is made with &lt;em&gt;one&lt;/em&gt; of the following:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Two fasting glucose readings &#xD;&#xA;&lt;span class=&#34;math math-inline&#34; id=&#34;h-sc-math-0&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/_558009852299074262.svg&#34; alt=&#34;mathematical expression or equation&#34;&gt;&#xD;&#xA;&lt;/span&gt; 126 mg/dL&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fasting glucose = measured after 8 hours of fasting&lt;/li&gt;&#xA;&lt;li&gt;Fasting glucose 100-126 &#xD;&#xA;&lt;span class=&#34;math math-block&#34; id=&#34;h-sc-math-1&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/_14678231818301574632.svg&#34; alt=&#34;mathematical expression or equation&#34;&gt;&#xD;&#xA;&lt;/span&gt; prediabetes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;One random glucose &#xD;&#xA;&lt;span class=&#34;math math-inline&#34; id=&#34;h-sc-math-2&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/_558009852299074262.svg&#34; alt=&#34;mathematical expression or equation&#34;&gt;&#xD;&#xA;&lt;/span&gt; 200 with symptoms (e.g., polyruia, polydipsia, polyphagia)&lt;/li&gt;&#xA;&lt;li&gt;Abnormal glucose tolerance teste (2-hour glucose tolerance test with 75 g glucose load)&lt;/li&gt;&#xA;&lt;li&gt;Hemoglobin A1c &amp;gt; 6.5%&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;div class=&#34;callout callout-note d-flex flex-row mt-4 mb-4 pt-4 pe-4 pb-2 ps-3&#34;&gt;&#xD;&#xA;  &#xD;&#xA;  &lt;div class=&#34;callout-content&#34;&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;callout-body&#34;&gt;&#xD;&#xA;      &lt;p&gt;HbA1c &amp;gt; 6.5% diagnoses diabetes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

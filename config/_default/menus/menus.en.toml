@@ -1,0 +1,29 @@
+[[main]]
+  name = "CV"
+  url = "/cv/"
+  weight = 1
+
+[[main]]
+  name = "Didactics"
+  url = "/didactics/"
+  weight = 2
+
+[[main]]
+  name = "Pathology"
+  url = "/pathology/main_page"
+  weight = 3
+
+[[main]]
+  name = "Research"
+  url = "/research/"
+  weight = 4
+
+[[main]]
+  name = "Book notes"
+  url = "/book_notes/"
+  weight = 5
+
+[[main]]
+  name = "Step 3"
+  url = "/step3/main_page"
+  weight = 6
