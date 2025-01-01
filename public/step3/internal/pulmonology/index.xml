@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pulmonology on Paraganglia</title>
-    <link>http://localhost:1313/step3/internal/pulmonology/</link>
+    <link>https://rarevia.github.io/paraganglia/step3/internal/pulmonology/</link>
     <description>Recent content in Pulmonology on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sat, 28 Dec 2024 17:43:42 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/step3/internal/pulmonology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rarevia.github.io/paraganglia/step3/internal/pulmonology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pulm</title>
-      <link>http://localhost:1313/step3/internal/pulmonology/pulm/</link>
+      <link>https://rarevia.github.io/paraganglia/step3/internal/pulmonology/pulm/</link>
       <pubDate>Sat, 28 Dec 2024 17:43:42 -0700</pubDate>
-      <guid>http://localhost:1313/step3/internal/pulmonology/pulm/</guid>
+      <guid>https://rarevia.github.io/paraganglia/step3/internal/pulmonology/pulm/</guid>
       <description>&lt;p&gt;Pulmonology&lt;/p&gt;</description>
     </item>
   </channel>

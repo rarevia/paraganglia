@@ -138,17 +138,16 @@ mainSections = ["docs"]
     product = [] # Product sections
 
 [params]
-colorLight = "#fff"
-colorDark = "#666"
-colorPageBackground = "#ddd"
+colorLight = "#ffffff"
+colorDark = "#666666"
+colorPageBackground = "#dddddd"
 colorPrimary = "#e3bfb8"
-colorSecondary = "#aaa"
-colorIconPrimary = "#fff"
+colorSecondary = "#aaaaaa"
+colorIconPrimary = "#ffffff"
 colorIconBackground = "#e3bfb8"
 colorRightColumnBackground = "#f5f5f5"
-colorRightColumnHeadingText = "#666"
-colorRightColumnBodyText = "#666"
-colorRightColumnIconPrimary = "#fff"
+colorRightColumnHeadingText = "#666666"
+colorRightColumnBodyText = "#666666"
+colorRightColumnIconPrimary = "#ffffff"
 colorRightColumnIconBackground = "#e3bfb8"
 pages = 1
-

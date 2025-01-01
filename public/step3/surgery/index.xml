@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Surgery on Paraganglia</title>
-    <link>http://localhost:1313/step3/surgery/</link>
+    <link>https://rarevia.github.io/paraganglia/step3/surgery/</link>
     <description>Recent content in Surgery on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sat, 28 Dec 2024 17:44:53 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/step3/surgery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rarevia.github.io/paraganglia/step3/surgery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Surgery</title>
-      <link>http://localhost:1313/step3/surgery/surgery/</link>
+      <link>https://rarevia.github.io/paraganglia/step3/surgery/surgery/</link>
       <pubDate>Sat, 28 Dec 2024 17:44:53 -0700</pubDate>
-      <guid>http://localhost:1313/step3/surgery/surgery/</guid>
+      <guid>https://rarevia.github.io/paraganglia/step3/surgery/surgery/</guid>
       <description>&lt;p&gt;Surgery&lt;/p&gt;</description>
     </item>
   </channel>

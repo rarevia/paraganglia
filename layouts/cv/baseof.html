@@ -1,3 +1,15 @@
+{{ $styles := resources.Get "scss/cv/main.scss" | css.Sass (dict "targetPath" "css/main.css" "enableSourceMap" false) }}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+
+{{ $styles := resources.Get "scss/cv/main.scss" }}
+{{ if not $styles }}
+  <p>Error: SCSS file not found at scss/cv/main.scss</p>
+{{ else }}
+  {{ $compiled := $styles | css.Sass (dict "targetPath" "css/main.css") }}
+  <link rel="stylesheet" href="{{ $compiled.RelPermalink }}">
+{{ end }}
+
+
 {{ $data := or (index .Site.Data.cv.contnet .Site.Language.Lang).cv.content .Site.Data.cv.content }}
 
 <!DOCTYPE html>

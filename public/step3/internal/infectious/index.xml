@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infectious Disease on Paraganglia</title>
-    <link>http://localhost:1313/step3/internal/infectious/</link>
+    <link>https://rarevia.github.io/paraganglia/step3/internal/infectious/</link>
     <description>Recent content in Infectious Disease on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sat, 28 Dec 2024 17:42:58 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/step3/internal/infectious/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rarevia.github.io/paraganglia/step3/internal/infectious/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Infectious</title>
-      <link>http://localhost:1313/step3/internal/infectious/infectious/</link>
+      <link>https://rarevia.github.io/paraganglia/step3/internal/infectious/infectious/</link>
       <pubDate>Sat, 28 Dec 2024 17:42:58 -0700</pubDate>
-      <guid>http://localhost:1313/step3/internal/infectious/infectious/</guid>
+      <guid>https://rarevia.github.io/paraganglia/step3/internal/infectious/infectious/</guid>
       <description>&lt;p&gt;Infectious disease&lt;/p&gt;</description>
     </item>
   </channel>

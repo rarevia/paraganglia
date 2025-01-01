@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CV on Paraganglia</title>
-    <link>http://localhost:1313/pathology/ap/surg_path/cardio/</link>
+    <link>https://rarevia.github.io/paraganglia/pathology/ap/surg_path/cardio/</link>
     <description>Recent content in CV on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sun, 29 Dec 2024 16:53:39 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/pathology/ap/surg_path/cardio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rarevia.github.io/paraganglia/pathology/ap/surg_path/cardio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cardiovascular</title>
-      <link>http://localhost:1313/pathology/ap/surg_path/cardio/cardio/</link>
+      <link>https://rarevia.github.io/paraganglia/pathology/ap/surg_path/cardio/cardio/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>http://localhost:1313/pathology/ap/surg_path/cardio/cardio/</guid>
+      <guid>https://rarevia.github.io/paraganglia/pathology/ap/surg_path/cardio/cardio/</guid>
       <description>&lt;h2 id=&#34;normal-anatomy&#34;&gt;Normal anatomy&lt;/h2&gt;&#xA;&lt;h2 id=&#34;normal-histology&#34;&gt;Normal histology&lt;/h2&gt;</description>
     </item>
   </channel>
