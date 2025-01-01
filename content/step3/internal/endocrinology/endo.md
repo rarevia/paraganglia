@@ -11,7 +11,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-## Diabetes
+## Diabetis
 ### Diangosis
 Diagnosis of *diabetes mellitus* is made with *one* of the following:
 1. Two fasting glucose readings {{< math >}}$\geq${{< /math >}} 126 mg/dL
