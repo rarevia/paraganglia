@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Paraganglia</title>
-    <link>http://localhost:1313/paraganglia/tags/</link>
+    <link>https://rarevia.github.io/paraganglia/tags/</link>
     <description>Recent content in Tags on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
-    <atom:link href="http://localhost:1313/paraganglia/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rarevia.github.io/paraganglia/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biostatistics on Paraganglia</title>
-    <link>http://localhost:1313/paraganglia/step3/biostats/</link>
+    <link>https://rarevia.github.io/paraganglia/step3/biostats/</link>
     <description>Recent content in Biostatistics on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sat, 28 Dec 2024 17:46:04 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/paraganglia/step3/biostats/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rarevia.github.io/paraganglia/step3/biostats/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biostats</title>
-      <link>http://localhost:1313/paraganglia/step3/biostats/biostats/</link>
+      <link>https://rarevia.github.io/paraganglia/step3/biostats/biostats/</link>
       <pubDate>Sat, 28 Dec 2024 17:46:04 -0700</pubDate>
-      <guid>http://localhost:1313/paraganglia/step3/biostats/biostats/</guid>
+      <guid>https://rarevia.github.io/paraganglia/step3/biostats/biostats/</guid>
       <description></description>
     </item>
   </channel>

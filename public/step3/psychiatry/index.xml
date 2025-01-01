@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Psychiatry on Paraganglia</title>
-    <link>http://localhost:1313/paraganglia/step3/psychiatry/</link>
+    <link>https://rarevia.github.io/paraganglia/step3/psychiatry/</link>
     <description>Recent content in Psychiatry on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sat, 28 Dec 2024 17:45:42 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/paraganglia/step3/psychiatry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rarevia.github.io/paraganglia/step3/psychiatry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Psych</title>
-      <link>http://localhost:1313/paraganglia/step3/psychiatry/psych/</link>
+      <link>https://rarevia.github.io/paraganglia/step3/psychiatry/psych/</link>
       <pubDate>Sat, 28 Dec 2024 17:45:42 -0700</pubDate>
-      <guid>http://localhost:1313/paraganglia/step3/psychiatry/psych/</guid>
+      <guid>https://rarevia.github.io/paraganglia/step3/psychiatry/psych/</guid>
       <description>&lt;p&gt;Psychiatry&lt;/p&gt;</description>
     </item>
   </channel>
