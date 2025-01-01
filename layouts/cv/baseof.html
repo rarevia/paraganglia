@@ -1,8 +1,9 @@
+<!--
 {{ $styles := resources.Get "scss/cv/main.scss" | css.Sass (dict "targetPath" "css/cv/main.css" "enableSourceMap" false) }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
 
-
 {{ $data := or (index .Site.Data.cv.contnet .Site.Language.Lang).cv.content .Site.Data.cv.content }}
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -10,8 +11,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }}</title>
-    <link rel="stylesheet" href="assets/scss/cv/main.scss"> <!-- Ensure this path is correct -->
-    {{- partial "cv/head.html" . -}} <!-- Include additional head content if needed -->
+    {{- partial "cv/head.html" . -}}
 </head>
 <body>
     <div class="content">
@@ -41,3 +41,4 @@
     </div>
 </body>
 </html>
+-->
