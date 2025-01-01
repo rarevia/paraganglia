@@ -2,63 +2,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://rarevia.github.io/paraganglia/pathology/cp/chem/chem/</loc>
+      <loc>http://localhost:1313/pathology/cp/chem/chem/</loc>
       <lastmod>2024-12-29T16:53:39-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://rarevia.github.io/paraganglia/pathology/cp/blood_bank/blood_bank/</loc>
+      <loc>http://localhost:1313/pathology/cp/blood_bank/blood_bank/</loc>
       <lastmod>2024-12-29T16:53:39-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://rarevia.github.io/paraganglia/pathology/cp/micro/micro/</loc>
+      <loc>http://localhost:1313/pathology/cp/micro/micro/</loc>
       <lastmod>2024-12-29T16:53:39-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://rarevia.github.io/paraganglia/pathology/cp/heme/heme/</loc>
+      <loc>http://localhost:1313/pathology/cp/heme/heme/</loc>
       <lastmod>2024-12-29T16:53:39-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://rarevia.github.io/paraganglia/pathology/cp/coag/coag/</loc>
+      <loc>http://localhost:1313/pathology/cp/coag/coag/</loc>
       <lastmod>2024-12-29T16:53:39-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://rarevia.github.io/paraganglia/pathology/cp/immuno/immuno/</loc>
+      <loc>http://localhost:1313/pathology/cp/immuno/immuno/</loc>
       <lastmod>2024-12-29T16:53:39-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://rarevia.github.io/paraganglia/pathology/cp/molecular/molecular/</loc>
+      <loc>http://localhost:1313/pathology/cp/molecular/molecular/</loc>
       <lastmod>2024-12-29T16:53:39-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://rarevia.github.io/paraganglia/pathology/cp/medical_directorship/medical_directorship/</loc>
+      <loc>http://localhost:1313/pathology/cp/medical_directorship/medical_directorship/</loc>
       <lastmod>2024-12-29T16:53:39-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
     </url>
     
     <url>
-      <loc>https://rarevia.github.io/paraganglia/pathology/cp/informatics/informatics/</loc>
+      <loc>http://localhost:1313/pathology/cp/informatics/informatics/</loc>
       <lastmod>2024-12-29T16:53:39-07:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>

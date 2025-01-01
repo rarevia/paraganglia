@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rheumatology on Paraganglia</title>
-    <link>https://rarevia.github.io/paraganglia/step3/internal/rheumatology/</link>
+    <link>http://localhost:1313/step3/internal/rheumatology/</link>
     <description>Recent content in Rheumatology on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sat, 28 Dec 2024 17:43:51 -0700</lastBuildDate>
-    <atom:link href="https://rarevia.github.io/paraganglia/step3/internal/rheumatology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/step3/internal/rheumatology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rheum</title>
-      <link>https://rarevia.github.io/paraganglia/step3/internal/rheumatology/rheum/</link>
+      <link>http://localhost:1313/step3/internal/rheumatology/rheum/</link>
       <pubDate>Sat, 28 Dec 2024 17:43:51 -0700</pubDate>
-      <guid>https://rarevia.github.io/paraganglia/step3/internal/rheumatology/rheum/</guid>
+      <guid>http://localhost:1313/step3/internal/rheumatology/rheum/</guid>
       <description>&lt;p&gt;Rheumatology&lt;/p&gt;</description>
     </item>
   </channel>

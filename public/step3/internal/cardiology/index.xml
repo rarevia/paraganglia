@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cardiology on Paraganglia</title>
-    <link>https://rarevia.github.io/paraganglia/step3/internal/cardiology/</link>
+    <link>http://localhost:1313/step3/internal/cardiology/</link>
     <description>Recent content in Cardiology on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sat, 28 Dec 2024 17:43:25 -0700</lastBuildDate>
-    <atom:link href="https://rarevia.github.io/paraganglia/step3/internal/cardiology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/step3/internal/cardiology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cardiology</title>
-      <link>https://rarevia.github.io/paraganglia/step3/internal/cardiology/cards/</link>
+      <link>http://localhost:1313/step3/internal/cardiology/cards/</link>
       <pubDate>Sat, 28 Dec 2024 17:43:25 -0700</pubDate>
-      <guid>https://rarevia.github.io/paraganglia/step3/internal/cardiology/cards/</guid>
+      <guid>http://localhost:1313/step3/internal/cardiology/cards/</guid>
       <description>&lt;h2 id=&#34;ischemic-heart-disease&#34;&gt;Ischemic heart disease&lt;/h2&gt;&#xA;&lt;h3 id=&#34;physical-findings&#34;&gt;Physical findings&lt;/h3&gt;&#xA;&lt;h3 id=&#34;diagnostic-testing&#34;&gt;Diagnostic testing&lt;/h3&gt;&#xA;&lt;h2 id=&#34;acute-coronary-syndrome&#34;&gt;Acute coronary syndrome&lt;/h2&gt;&#xA;&lt;h3 id=&#34;treatment&#34;&gt;Treatment&lt;/h3&gt;&#xA;&lt;h3 id=&#34;complications-of-a-myocardial-infarction&#34;&gt;Complications of a myocardial infarction&lt;/h3&gt;&#xA;&lt;h2 id=&#34;stable-angina&#34;&gt;Stable angina&lt;/h2&gt;&#xA;&lt;h3 id=&#34;treatment-1&#34;&gt;Treatment&lt;/h3&gt;&#xA;&lt;h2 id=&#34;lipid-management&#34;&gt;Lipid management&lt;/h2&gt;&#xA;&lt;h2 id=&#34;congestive-heart-failure&#34;&gt;Congestive heart failure&lt;/h2&gt;&#xA;&lt;h3 id=&#34;diagnostic-testing-1&#34;&gt;Diagnostic testing&lt;/h3&gt;&#xA;&lt;h3 id=&#34;management&#34;&gt;Management&lt;/h3&gt;&#xA;&lt;h2 id=&#34;valvular-heart-disease&#34;&gt;Valvular heart disease&lt;/h2&gt;&#xA;&lt;p&gt;All valvular heart disease presents with &lt;strong&gt;shortness of breath&lt;/strong&gt; as the chief complaint. Look for the phrase &lt;strong&gt;&amp;ldquo;worse with exertion or exercise.&amp;rdquo;&lt;/strong&gt; Hypertesnion, myocardial infarction, ischemia, increasing age, and rhuematic fever will be in the history but (with the exception of rheumatic heart disease) are probably too nonspecific to give you the diagnosis. Young patients with valvular heart disease will have mitral valve prolapse, hypertrophic obstructive cardiomyopathy, mitral stenosis, or bicuspid aortic valves.&lt;/p&gt;</description>
     </item>
   </channel>
