@@ -1,7 +1,6 @@
-<!--
-{{ $styles := resources.Get "scss/cv/main.scss" | css.Sass (dict "targetPath" "css/main.css" "enableSourceMap" false) }}
+{{ $styles := resources.Get "scss/cv/main.scss" | css.Sass (dict "targetPath" "css/cv/main.css" "enableSourceMap" false) }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
--->
+
 
 {{ $data := or (index .Site.Data.cv.contnet .Site.Language.Lang).cv.content .Site.Data.cv.content }}
 
