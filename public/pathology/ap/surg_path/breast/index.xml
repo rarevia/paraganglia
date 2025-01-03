@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Breast on Paraganglia</title>
-    <link>https://rarevia.github.io/paraganglia/pathology/ap/surg_path/breast/</link>
+    <link>http://localhost:1313/pathology/ap/surg_path/breast/</link>
     <description>Recent content in Breast on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sun, 29 Dec 2024 16:53:39 -0700</lastBuildDate>
-    <atom:link href="https://rarevia.github.io/paraganglia/pathology/ap/surg_path/breast/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pathology/ap/surg_path/breast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breast</title>
-      <link>https://rarevia.github.io/paraganglia/pathology/ap/surg_path/breast/breast/</link>
+      <link>http://localhost:1313/pathology/ap/surg_path/breast/breast/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>https://rarevia.github.io/paraganglia/pathology/ap/surg_path/breast/breast/</guid>
+      <guid>http://localhost:1313/pathology/ap/surg_path/breast/breast/</guid>
       <description>&lt;h2 id=&#34;normal-anatomy&#34;&gt;Normal anatomy&lt;/h2&gt;&#xA;&lt;h2 id=&#34;normal-histology&#34;&gt;Normal histology&lt;/h2&gt;&#xA;&lt;h2 id=&#34;fibrocystic-changes&#34;&gt;Fibrocystic changes&lt;/h2&gt;&#xA;&lt;p&gt;Fibrocystic changes refer to &lt;strong&gt;fibrosis&lt;/strong&gt; and &lt;strong&gt;cystic dilataion&lt;/strong&gt; of the ducts. Fibrocystic change is actually an umbrella term for many different characteristics:&lt;/p&gt;</description>
     </item>
   </channel>

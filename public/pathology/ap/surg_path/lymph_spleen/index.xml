@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lymph and Spleen on Paraganglia</title>
-    <link>https://rarevia.github.io/paraganglia/pathology/ap/surg_path/lymph_spleen/</link>
+    <link>http://localhost:1313/pathology/ap/surg_path/lymph_spleen/</link>
     <description>Recent content in Lymph and Spleen on Paraganglia</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright (c) 2024 Richard Revia</copyright>
     <lastBuildDate>Sun, 29 Dec 2024 16:53:39 -0700</lastBuildDate>
-    <atom:link href="https://rarevia.github.io/paraganglia/pathology/ap/surg_path/lymph_spleen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pathology/ap/surg_path/lymph_spleen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lymph and Spleen</title>
-      <link>https://rarevia.github.io/paraganglia/pathology/ap/surg_path/lymph_spleen/lymph_spleen/</link>
+      <link>http://localhost:1313/pathology/ap/surg_path/lymph_spleen/lymph_spleen/</link>
       <pubDate>Sun, 29 Dec 2024 16:53:39 -0700</pubDate>
-      <guid>https://rarevia.github.io/paraganglia/pathology/ap/surg_path/lymph_spleen/lymph_spleen/</guid>
+      <guid>http://localhost:1313/pathology/ap/surg_path/lymph_spleen/lymph_spleen/</guid>
       <description>&lt;h2 id=&#34;normal-anatomy&#34;&gt;Normal anatomy&lt;/h2&gt;&#xA;&lt;h2 id=&#34;normal-histology&#34;&gt;Normal histology&lt;/h2&gt;</description>
     </item>
   </channel>

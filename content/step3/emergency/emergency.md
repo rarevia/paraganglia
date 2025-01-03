@@ -3,7 +3,7 @@ title: "Emergency"
 description: ""
 summary: ""
 date: 2024-12-28T17:45:51-07:00
-lastmod: 2025-1-2
+lastmod: 2025-01-02
 draft: false
 seo:
   title: "" # custom title (optional)
